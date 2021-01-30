@@ -1,0 +1,21 @@
+﻿  UnitTest1.cpp
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(7,40): warning C4305: инициализация: усечение из "double" в "float"
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(8,40): warning C4305: инициализация: усечение из "double" в "float"
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(474,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(499,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(527,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(556,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(565,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(693,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(732,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(738,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(1107,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\List.cpp(104,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\List.cpp(124,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\List.cpp(142,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\List.cpp(163,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\List.cpp(184,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(439): warning C4715: Calculator::GetSymbolType: значение возвращается не при всех путях выполнения
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(709): warning C4715: Calculator::GetOperand: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Visual Studio\kyrsovaya1.3\Debug\UnitTest1.lib и объект D:\Visual Studio\kyrsovaya1.3\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Visual Studio\kyrsovaya1.3\Debug\UnitTest1.dll

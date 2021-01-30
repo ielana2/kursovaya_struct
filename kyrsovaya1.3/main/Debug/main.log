@@ -1,0 +1,46 @@
+﻿  Calculator.cpp
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(7,40): warning C4305: инициализация: усечение из "double" в "float"
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(8,40): warning C4305: инициализация: усечение из "double" в "float"
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(467,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(472,83): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(475,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(482,80): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(484,119): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(484,80): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(491,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(498,84): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(501,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(508,81): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(510,120): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(510,81): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(518,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(526,84): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(529,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(536,81): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(538,120): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(538,81): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(546,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(553,80): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(559,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(563,72): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(689,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(728,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(734,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(753,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(759,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(763,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(769,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(774,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(779,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(784,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(789,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(794,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(799,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(804,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(809,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(814,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(819,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(1089,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(436): warning C4715: Calculator::GetSymbolType: значение возвращается не при всех путях выполнения
+D:\Visual Studio\kyrsovaya1.3\main\Calculator.cpp(705): warning C4715: Calculator::GetOperand: значение возвращается не при всех путях выполнения
+  main.vcxproj -> D:\Visual Studio\kyrsovaya1.3\Debug\main.exe
